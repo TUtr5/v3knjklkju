@@ -1,5 +1,5 @@
 services:
-  oktewe:
+  dgkduj3:
     build: .
     shm_size: 2.6gb
     ports:
